@@ -5,7 +5,7 @@ let anoNascimento = prompt("Digite seu ano de nascimento");
 
 let cidade = prompt("Digite sua cidade");
 
-let anoAtual = 2022;
+const anoAtual = 2022;
 
 let idade = anoAtual - anoNascimento;
 
